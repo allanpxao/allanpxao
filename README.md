@@ -8,10 +8,17 @@ It serves as a space for experimentation, continuous learning, and creative prob
 
 ---
 
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+## 🛠️ Languages & Tools
+### 🐍 Python
+🔍 Main focus: Data Analysis — developing skills in data manipulation, transformation, and visualization.
+
+#### 📘 Numpy Library
+Efficient handling of arrays and multidimensional matrices.
+High-performance tools for linear algebra, random number generation, and simulations.
+
+#### 📙 Pandas Library
+Data structures like DataFrame and Series for tabular data.
+Data cleaning, transformation, and exploratory analysis with real-world datasets (CSV, Excel, JSON, etc.).
 
 ---
 
